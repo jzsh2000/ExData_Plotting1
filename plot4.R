@@ -48,7 +48,7 @@ axis(1,
 legend("topright",
        legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
        col=c("black", "red", "blue"),
-       box.lty=0,
+       bty='n',
        lty=1)
 # plot-4
 plot(dat$Global_reactive_power~as.numeric(dat$Time),
