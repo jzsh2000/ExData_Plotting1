@@ -1,3 +1,9 @@
+## How to use
+1. edit the first line of `Makefile` according to your data file path
+2. run `make` under the command-line
+
+---
+
 ## Introduction
 
 This assignment uses data from
