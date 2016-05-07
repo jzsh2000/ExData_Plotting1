@@ -2,6 +2,18 @@
 1. edit the first line of `Makefile` according to your data file path
 2. run `make` under the command-line
 
+### Plot 1
+![plot 1](plot1.png)
+
+### Plot 2
+![plot 2](plot2.png)
+
+### Plot 3
+![plot 3](plot3.png)
+
+### Plot 4
+![plot 4](plot4.png)
+
 ---
 
 ## Introduction

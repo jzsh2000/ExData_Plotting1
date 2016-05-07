@@ -16,6 +16,7 @@ png('plot3.png', width=480, height=480)
 plot(dat$Sub_metering_1~as.numeric(dat$Time),
      type="l",
      xaxt="n",
+     xlab="",
      ylab="Energy sub metering")
 lines(dat$Sub_metering_2~as.numeric(dat$Time),
       col='red')
